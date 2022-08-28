@@ -1,2 +1,2 @@
-# amandalarrea.github.io
-Currículo do Jornada Dev
+# jornada-dev-ebac
+Currículo desenvolvido durante a Jornada Dev oferecida pela EBAC.
